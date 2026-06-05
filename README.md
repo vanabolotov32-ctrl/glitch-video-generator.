@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="LOGO.png" width="180" alt="Glitch Videos Logo">
+</p>
+
 # Glitch-Videos (Otomad Slit-Scan Generator)
 
 A Python script for creating custom Otomad/YTPMV video effects using a heavy pixel-stretching slit-scan glitch.
